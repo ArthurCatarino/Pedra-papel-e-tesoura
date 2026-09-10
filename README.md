@@ -24,7 +24,7 @@ Não é necessária nenhuma instalação prévia ou servidor local.
 2. Abra o arquivo `index.html` em qualquer navegador web.
 
 ## Link da Versão Publicada (GitHub Pages)
-[Cole aqui a sua URL do GitHub Pages, ex: https://seu-usuario.github.io/nome-do-repo]
+https://arthurcatarino.github.io/Pedra-papel-e-tesoura/
 
 ## Informações Acadêmicas
 
